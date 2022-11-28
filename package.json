@@ -2,7 +2,7 @@
   "name": "pets-p-p",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Tuzosdaniel12.github.io/Paradigm-Pet-Professionals",
+  "homepage": "https://Tuzosdaniel12.github.io/Paradigm-Pet-Professionals/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
