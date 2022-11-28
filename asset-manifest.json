@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Paradigm-Pet-Professionals/static/css/main.5c765162.css",
+    "main.js": "/Paradigm-Pet-Professionals/static/js/main.43b714ab.js",
+    "static/js/787.70571452.chunk.js": "/Paradigm-Pet-Professionals/static/js/787.70571452.chunk.js",
+    "static/media/cat2.jpg": "/Paradigm-Pet-Professionals/static/media/cat2.220b9ed8814b3d866129.jpg",
+    "static/media/dog2.png": "/Paradigm-Pet-Professionals/static/media/dog2.bb0e550380e77e61ad17.png",
+    "static/media/cat1.jpg": "/Paradigm-Pet-Professionals/static/media/cat1.7ab147232c220e0e87ac.jpg",
+    "static/media/cat4.jpg": "/Paradigm-Pet-Professionals/static/media/cat4.2d8d07a0c07a423a0700.jpg",
+    "static/media/petshoplogo.png": "/Paradigm-Pet-Professionals/static/media/petshoplogo.044be04463a8ff907866.png",
+    "static/media/dog4.jpg": "/Paradigm-Pet-Professionals/static/media/dog4.523da1b037b046bf9a7c.jpg",
+    "static/media/cat5.jpg": "/Paradigm-Pet-Professionals/static/media/cat5.ddf999726683050da3bc.jpg",
+    "static/media/dog3.jpg": "/Paradigm-Pet-Professionals/static/media/dog3.3422c2c769a84d6772ca.jpg",
+    "static/media/cat3.jpg": "/Paradigm-Pet-Professionals/static/media/cat3.bf76218be6671dd09ace.jpg",
+    "static/media/guineapig1.jpg": "/Paradigm-Pet-Professionals/static/media/guineapig1.ac440eece4a03d062d3e.jpg",
+    "static/media/bird1.jpg": "/Paradigm-Pet-Professionals/static/media/bird1.93adb12aa4e82596f254.jpg",
+    "static/media/ferret1.jpg": "/Paradigm-Pet-Professionals/static/media/ferret1.9eea9001ac85535c2490.jpg",
+    "static/media/fish2.jpg": "/Paradigm-Pet-Professionals/static/media/fish2.94a386a7ec7249c32828.jpg",
+    "static/media/dog1.jpg": "/Paradigm-Pet-Professionals/static/media/dog1.73a2e22ed7ee01211023.jpg",
+    "static/media/fish1.jpg": "/Paradigm-Pet-Professionals/static/media/fish1.080533053d33b6649958.jpg",
+    "static/media/title.png": "/Paradigm-Pet-Professionals/static/media/title.244b8c76cd92b6453b07.png",
+    "index.html": "/Paradigm-Pet-Professionals/index.html",
+    "main.5c765162.css.map": "/Paradigm-Pet-Professionals/static/css/main.5c765162.css.map",
+    "main.43b714ab.js.map": "/Paradigm-Pet-Professionals/static/js/main.43b714ab.js.map",
+    "787.70571452.chunk.js.map": "/Paradigm-Pet-Professionals/static/js/787.70571452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c765162.css",
+    "static/js/main.43b714ab.js"
+  ]
+}
